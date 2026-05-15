@@ -1,7 +1,4 @@
-<!-- ============================================================
-     CYBERZONE - Hacker / Cyberpunk Theme
-     Replace ATONL200 with your actual GitHub username
-     ============================================================ -->
+<!-- CYBERZONE Profile Theme for Atonl200 -->
 
 <div align="center">
 
