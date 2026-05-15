@@ -191,20 +191,14 @@ const hacker = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`> cat /etc/connections`
 
 <div align="center">
-  <a href="https://discord.gg/YOUR-DISCORD">
+  <a href="https://discord.gg/EMKNR6p6Xg">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ff41" alt="Twitter"/>
-  </a>
-  <a href="https://YOUR-WEBSITE.com">
+  <a href="https://projectnexus.pro">
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41" alt="Website"/>
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:admin@projectnexus.pro">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/>
-  </a>
-  <a href="https://youtube.com/@YOUR-YOUTUBE">
-    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff41" alt="YouTube"/>
   </a>
 </div>
 
